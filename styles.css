@@ -1,9 +1,10 @@
-/*  your css code here. If applicable */
+/*  your CSS code here. If applicable */
 .heading{
 	text-align: center;
 }
-div{
-	margin-bottom:10px;
+li{
+	list-style-type: none;
+	
 }
 a{
 	font-weight:bold;
